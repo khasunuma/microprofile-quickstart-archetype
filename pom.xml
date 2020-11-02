@@ -4,7 +4,7 @@
   <!-- The Basics -->
   <groupId>com.poortoys</groupId>
   <artifactId>microprofile-quickstart-archetype</artifactId>
-  <version>3.3.0-SNAPSHOT</version>
+  <version>3.3.0</version>
   <packaging>maven-archetype</packaging>
   
   <!-- Build Settings -->
@@ -107,7 +107,7 @@
     <url>https://github.com/khasunuma/microprofile-quickstart-archetype</url>
     <connection>scm:git:https://github.com/khasunuma/microprofile-quickstart-archetype.git</connection>
     <developerConnection>scm:git:https://github.com/khasunuma/microprofile-quickstart-archetype.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v3.3.0</tag>
   </scm>
   <distributionManagement>
     <repository>
